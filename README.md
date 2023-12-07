@@ -4,7 +4,7 @@
 
 ## table of contents
 
-### /code
+### /code-resource
 
 This is a folder of example code and learning resource links that I used, no practice code was written as I did all of the practicing in-app while i was building the project.
 
@@ -26,6 +26,14 @@ I used a few different sources for learning tkinter, each with their own little 
 
 ### /my-code
 
+#### **far-to-cel-converter**
+
+Converts Fahrenheit to Celsius using user input.
+
 #### **helpdesk-ticketing-system**
 
 These are the files written for the [helpdesk ticketing project](https://github.com/Cody-Derbyshire/helpdesk-ticketing-system), main.py is the command-line interface version of the app, and gui.py is the gui version of the app.
+
+#### **password-generator**
+
+Simple little password generator that takes a sample of chars and a number from the user and spits out a ramdom password.
